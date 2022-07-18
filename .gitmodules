@@ -10,3 +10,6 @@
 [submodule "Drivers/i2c_TechMaker_sm"]
 	path = Drivers/i2c_TechMaker_sm
 	url = https://github.com/bazhen-paseka/i2c_TechMaker_sm.git
+[submodule "Drivers/max7219_4x_dot_sm"]
+	path = Drivers/max7219_4x_dot_sm
+	url = https://github.com/bazhen-paseka/max7219_4x_dot_sm.git
