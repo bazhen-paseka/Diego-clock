@@ -4,3 +4,6 @@
 [submodule "Drivers/digital_clock_for_bedroom_sm"]
 	path = Drivers/digital_clock_for_bedroom_sm
 	url = https://github.com/bazhen-paseka/digital_clock_for_bedroom_sm.git
+[submodule "Drivers/ds3231_sm"]
+	path = Drivers/ds3231_sm
+	url = https://github.com/bazhen-paseka/ds3231_sm.git
