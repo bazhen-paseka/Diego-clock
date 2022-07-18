@@ -1,3 +1,6 @@
 [submodule "Drivers/adc_light_stm32f103_hal_sm"]
 	path = Drivers/adc_light_stm32f103_hal_sm
 	url = https://github.com/bazhen-paseka/adc_light_stm32f103_hal_sm.git
+[submodule "Drivers/digital_clock_for_bedroom_sm"]
+	path = Drivers/digital_clock_for_bedroom_sm
+	url = https://github.com/bazhen-paseka/digital_clock_for_bedroom_sm.git
