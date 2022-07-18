@@ -1,4 +1,0 @@
-../Drivers/digital_clock_for_bedroom_sm/digital_clock_for_bedroom_sm.c:77:6:Digit_clock_Init	168	static
-../Drivers/digital_clock_for_bedroom_sm/digital_clock_for_bedroom_sm.c:132:6:Digit_clock_Main	152	static
-../Drivers/digital_clock_for_bedroom_sm/digital_clock_for_bedroom_sm.c:283:6:_beeper	16	static
-../Drivers/digital_clock_for_bedroom_sm/digital_clock_for_bedroom_sm.c:290:6:Digit_clock_Set_button	16	static
