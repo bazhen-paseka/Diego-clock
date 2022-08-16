@@ -3,7 +3,7 @@
 #define DIGITAL_CLOCK_FOR_BEDROOM_CONFIG_INCLUDED_H
 //******************************************************************************************
 
-	#define SOFT_VERSION	170
+	#define SOFT_VERSION	180
 	#define VERSION_YEAR	2022
 	#define VERSION_MONTH	8
 	#define VERSION_DAY		15
