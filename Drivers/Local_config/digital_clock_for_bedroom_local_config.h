@@ -3,16 +3,16 @@
 #define DIGITAL_CLOCK_FOR_BEDROOM_CONFIG_INCLUDED_H
 //******************************************************************************************
 
-	#define SOFT_VERSION	180
+	#define SOFT_VERSION	190
 	#define VERSION_YEAR	2022
 	#define VERSION_MONTH	8
-	#define VERSION_DAY		15
+	#define VERSION_DAY		19
 
 	#define	BUTTON_DELAY	100
 	#define	BEEPER_DELAY	 50
 
-	#define	ALARM_PERIOD_HOUR	 0
-	#define	ALARM_PERIOD_MIN	20
+//	#define	ALARM_PERIOD_HOUR	 0
+//	#define	ALARM_PERIOD_MIN	20
 
 	#define LIGHT_LEVEL_MIN		3500LU
 	#define LIGHT_LEVEL_MAX		3600LU
