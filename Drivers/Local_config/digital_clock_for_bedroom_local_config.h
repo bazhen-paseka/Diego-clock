@@ -11,9 +11,6 @@
 	#define	BUTTON_DELAY	100
 	#define	BEEPER_DELAY	 50
 
-//	#define	ALARM_PERIOD_HOUR	 0
-//	#define	ALARM_PERIOD_MIN	20
-
 	#define LIGHT_LEVEL_MIN		3500LU
 	#define LIGHT_LEVEL_MAX		3600LU
 
