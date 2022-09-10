@@ -18,7 +18,7 @@
 *								    DEFINES
 **************************************************************************
 */
-	#define INTENSITY		Intensity_5
+	#define INTENSITY		Intensity_31
 	#define DECODE_MODE		NoDecode
 	#define DISPLAY_DIGIT	DisplayDigit_0_7
 	#define WORK_MODE		NormalOperation
