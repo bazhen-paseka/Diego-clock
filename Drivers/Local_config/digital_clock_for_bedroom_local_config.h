@@ -3,10 +3,10 @@
 #define DIGITAL_CLOCK_FOR_BEDROOM_CONFIG_INCLUDED_H
 //******************************************************************************************
 
-	#define SOFT_VERSION	1910
-	#define VERSION_YEAR	2022
-	#define VERSION_MONTH	8
-	#define VERSION_DAY		19
+	#define SOFT_VERSION	1920
+	#define VERSION_YEAR	2024
+	#define VERSION_MONTH	10
+	#define VERSION_DAY		28
 
 	#define	BUTTON_DELAY	100
 	#define	BEEPER_DELAY	 50
