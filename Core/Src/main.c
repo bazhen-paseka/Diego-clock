@@ -99,7 +99,7 @@ int main(void)
   MX_ADC1_Init();
   /* USER CODE BEGIN 2 */
 
-	  Digit_clock_Init();
+	  Diego_Init();
 
   /* USER CODE END 2 */
 
@@ -107,7 +107,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-	  Digit_clock_Main();
+	  Diego_Main();
 
     /* USER CODE END WHILE */
 
